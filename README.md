@@ -7,3 +7,10 @@ Requisitos
 - [ ] Debe estar en el directorio raíz del proyecto.
 - [ ] La imagen base debe ser alpine:latest.
 - [ ] El Dockerfile debe contener una sola instrucción para mostrar "¡Hola, Capitán!" en la consola antes de salir.
+
+> [!NOTE]
+> Este proyecto es obtenido de la página de <a href="https://roadmap.sh/projects/tooltip-ui">roadmap.sh</a>
+
+## Soluciones hechas por la comunidad
+|Usuario|Repositorio| Website | Figma|
+|-------|-----------|---------|------|
